@@ -1,4 +1,4 @@
-# 🚀 AI Code Review
+# AI Code Review
 !![AI Code Review Banner](https://github.com/user-attachments/assets/0522cb3b-e118-4307-9d81-7cb5c8b94537)
 
 
